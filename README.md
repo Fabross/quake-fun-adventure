@@ -20,3 +20,10 @@ Regresion simple para estimar magnitud que genera tsunami, filtrado aprendido.
 
 k-means
 
+Páginas de interés: 
+
+ComCat catalog
+https://earthquake.usgs.gov/earthquakes/search/
+
+ComCat documentation
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#time
